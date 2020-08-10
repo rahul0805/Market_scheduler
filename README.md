@@ -1,5 +1,5 @@
 # Market Scheduler
-## Web application based on MERN stack - MongoDB, Express.js, React.js, and Node.js.
+Web application based on MERN stack - MongoDB, Express.js, React.js, and Node.js.Developed to reduce social contact during COVID-19
 
 ## Setup
 
