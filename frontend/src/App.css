@@ -1,0 +1,49 @@
+.containe{
+  position: absolute;
+  right: 0;
+  background-color: Bisque;
+  overflow: hidden;
+  border-color: #FF8C00;
+  border-style: solid;
+  border-width:2px;
+  height: 800px;
+  background-color: #D2B48C;
+  display: inline-block;
+}
+.containee{
+  display: inline-block;
+  margin-top: 250px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  color: #A0522D;
+  text-decoration: bold;
+}
+.Fir{
+  width: 1600px;
+  height: 1080px;
+  background-color: Bisque;
+}
+.navbar-expand-sm{
+  background-color: #D2B48C;
+
+}
+a{
+    color:#A0522D;
+}
+.items{
+  display: inline-block;
+background-color: #D2B48C;
+border-color: #FF8C00;
+border-style: solid;
+border-width:2px;
+width: 300px;
+}
+.itemsubs{
+  border-color: #FF8C00;
+  border-style: solid;
+  border-width:2px;
+}
+.cartonme{
+  display: inline-block;
+}
